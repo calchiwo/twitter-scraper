@@ -54,22 +54,24 @@ Clone the repo.
 
 Install dependencies.
 
-# bash
+``` bash
     python -m pip install -r requirements.txt
     python -m playwright install chromium
+```
 
 ## Usage
 
 Run the example script and pass a username.
 
-# bash
+```bash
     python examples/scrape_user.py orcdev
+```
 
 With a custom limit.
 
-# bash
+``` bash
     python examples/scrape_user.py elonmusk 15
-
+```
 This creates a CSV file named after the username, for example `elonmusk.csv`.  
 CSV files are ignored by git and stay local.
 
