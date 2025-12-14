@@ -1,5 +1,6 @@
 # twitter-scraper
 
+An open source Python tool for scraping public X (Twitter) tweets using Playwright.
 
 ## Why I built this
 
@@ -32,7 +33,7 @@ I wanted to learn a few things properly
 - Playwright  
 - Pandas  
 
-Nothing fancy. Just tools that get the job done.
+ust tools that get the job done.
 
 ## Setup
 
@@ -101,12 +102,10 @@ Do not abuse it.
 
 ## Final thoughts
 
-This project taught me more than tutorials ever did.
-
 If you are learning scraping, packaging, or just want to understand how things work under the hood, feel free to explore the code.
 
-If it helps you, cool.  
-If it breaks, fix it. That’s the fun part.
+If it helps you, cooooool
+If it breaks, fix it!. That’s the fun part tbh
 Byeeee
 
 
@@ -122,8 +121,3 @@ An open source Python tool for scraping public X (Twitter) profiles using Playwr
 - JavaScript rendered content
 - Simple Python API
 - CSV export
-
-## Usage
-
-```python
-from twitter_scraper.scraper import TwitterScraper
