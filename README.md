@@ -108,4 +108,4 @@ If it helps you, cool.
 
 If it breaks, fix it!. That’s the fun part tbh.
 
-Byeeee
+Byeeee.
