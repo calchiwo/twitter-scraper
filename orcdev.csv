@@ -1,0 +1,56 @@
+username,text,timestamp
+orcdev,"I don't know what kind of magic this is, but I love it!
+
+When you create a new route in TanStack Start, you automatically get a file ready.",2025-11-04T11:55:35.000Z
+orcdev,"3 React 
+@shadcn
+ libraries you NEED to know! ",2025-11-15T20:45:24.000Z
+orcdev,"Next.js 16 in less than a month.
+Shadcn dropping new components.
+
+Who’s ready for some fun refactoring?",2025-09-28T09:56:04.000Z
+orcdev,"Met 5 developers today. Zero knew what Shadcn is.
+
+Is this real life?",2025-10-03T12:43:54.000Z
+orcdev,"I'm looking for tools to make 
+@shadcn
+ apps beautiful for my next video.
+
+Any suggestions?",2025-08-23T08:52:48.000Z
+orcdev," Introducing my new open source project: youtube2blog!
+
+Turn any YouTube video into a blog post in one click, and instantly copy the Markdown.
+
+It's free for now, give it a try! Link below ",2025-10-02T19:34:04.000Z
+orcdev,"I dropped my longest video yet, building and deploying a notes app. 
+
+You'll get useful information, best practices, and real development. 
+
+Tech stack used:
+- 
+@nextjs
+ framework
+- 
+@shadcn
+ UI
+- 
+@better_auth
+ authentication
+- 
+@vercel
+ deployment
+- 
+@DrizzleORM
+ ORM
+- 
+@neondatabase",2025-07-22T18:32:26.000Z
+orcdev,"If .com is taken, what should I choose?",2025-10-01T11:30:42.000Z
+orcdev,"Successfully refactored one of my projects from Clerk to Better Auth. 
+
+Result:
+- No pricing
+- More flexible
+- The UI feels more natural and is fully customizable with Shadcn.
+
+I really love 
+@better_auth",2025-05-21T11:49:03.000Z
