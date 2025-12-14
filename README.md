@@ -87,7 +87,7 @@ You can also use it directly as a Python class.
     print(tweets)
 ```
 
-Nothing runs on import. Scraping only happens when you call the method.
+Nothing runs on import. Also scraping only happens when you call the method.
 
 ## Notes
 
