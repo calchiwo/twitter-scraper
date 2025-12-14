@@ -20,14 +20,14 @@ I wanted to learn a few things properly like,
 - Save results to CSV
 - Run fully from the terminal
 
-This is scraping. Stuff breaks sometimes. That’s part of it.
-
 ## What it does not do
 
 - No login  
 - No private accounts  
 - No API keys  
 - No guarantee X won’t change things later
+
+This is scraping. Stuff breaks sometimes. That’s part of it.
 
 ## Tech used
 
