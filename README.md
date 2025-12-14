@@ -12,16 +12,6 @@ I also wanted to stop hardcoding values everywhere and start writing code that c
 
 More than anything, I wanted to build something small, real, and finished, not just another experiment that works once and gets abandoned.
 
-
-## Why I built this
-
-I built this because i wanted to a few things properly like,
-
-- how scraping actually works in the real world 
-- how to deal with dynamic pages like X  
-- how modern frontends behaves
-- how to avoid hardcoding and build something reusable  
-
 ## What it can do
 
 - scrape public tweets from any username  
