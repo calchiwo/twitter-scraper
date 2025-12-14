@@ -4,9 +4,9 @@ An open source Python tool for scraping public X (Twitter) tweets using Playwrig
 
 ## Why I built this
 
-I wanted to learn a few things properly like,
+I built this because i wanted to a few things properly like,
 
-- How web scraping actually works  
+- How scraping actually works in the real world 
 - How to deal with dynamic pages like X  
 - How to structure a Python project properly  
 - How to avoid hardcoding and build something reusable  
