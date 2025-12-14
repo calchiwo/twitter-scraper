@@ -8,7 +8,7 @@ I built this because i wanted to a few things properly like,
 
 - how scraping actually works in the real world 
 - how to deal with dynamic pages like X  
-- how modern frontends actually behave
+- how modern frontends behaves
 - how to avoid hardcoding and build something reusable  
 
 ## What it can do
