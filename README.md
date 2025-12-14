@@ -18,7 +18,9 @@ I wanted to learn a few things properly like,
 - Extract clean tweet text  
 - Extract timestamps  
 - Save results to CSV
-- Run fully from the terminal  
+- Run fully from the terminal
+
+This is scraping. Stuff breaks sometimes. That’s part of it.
 
 ## What it does not do
 
