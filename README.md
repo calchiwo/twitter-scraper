@@ -1,7 +1,8 @@
 # twitter-scraper
 
-## Why I Built
 An open source Python tool for scraping public X (Twitter) tweets using Playwright.
+
+## Why I Built
 
 I built this because I wanted to understand how scraping actually works once you leave tutorials and toy examples.
 
